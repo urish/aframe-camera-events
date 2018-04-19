@@ -1,0 +1,8 @@
+{
+  "name": "aframe-camera-events",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:urish/aframe-camera-events.git",
+  "author": "Uri Shaked <uri@urishaked.com>",
+  "license": "MIT"
+}
